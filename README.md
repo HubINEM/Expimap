@@ -10,4 +10,4 @@
 
 [https://docs.scarches.org/en/latest/index.html](https://docs.scarches.org/en/latest/index.html)
 
-![image](https://github.com/ToureLaminelab/Expimap/assets/147385211/c55b99a2-7206-4a40-97c4-5129577e4dd3)
+![image](https://github.com/ToureLaminelab/Expimap/assets/147385211/8f04e501-a0b3-4011-a8a6-dcb088481444)
