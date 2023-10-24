@@ -6,3 +6,4 @@
 📍 ExpiMap compares favourably to existing methods while bringing an additional layer of interpretability to integrative single-cell analysis. It is applicable to analyse single-cell perturbation responses in different tissues and species and resolve responses of patients who have coronavirus disease 2019 to different treatments across cell types.
 
 ➡ ExpiMap is available as a part of
+https://lnkd.in/e98MUXd4
