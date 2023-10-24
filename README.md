@@ -9,3 +9,5 @@
 ➡ ExpiMap is available as a part of:
 
 [https://docs.scarches.org/en/latest/index.html](https://docs.scarches.org/en/latest/index.html)
+
+![image](https://github.com/ToureLaminelab/Expimap/assets/147385211/c55b99a2-7206-4a40-97c4-5129577e4dd3)
