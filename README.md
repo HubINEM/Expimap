@@ -19,6 +19,6 @@ This Expimap algorithm is installed used a conda environment. Use the following 
 
 ``` conda create -n scarches python=3.9
 conda activate scarches
-conda install pytorch
+conda install jupyter pandas numpy matplotlib pytorch 
 pip install scarches
 ```
